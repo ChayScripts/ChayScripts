@@ -16,6 +16,7 @@ With my growing interest in emerging AI technologies, I wanted to expand my hori
 
 ### 🤖 AI & Machine Learning
 - **[Parallel LLM Runner](https://github.com/ChayScripts/parallel-llm-runner)** - Run and compare multiple LLMs in parallel
+- **[Any-LLM-Chat](https://github.com/ChayScripts/Any-LLM-Chat)** - Chat interface to interact with any OpenAI-compatible LLM API, including local and remote Ollama instances.
 
 ### 🔧 Citrix Automation Suite
 - **[Install-Citrix-Software-with-Ansible](https://github.com/ChayScripts/Install-Citrix-Software-with-Ansible)** - Automated installation of Citrix components (DDC, StoreFront, Director, License Server) using Ansible
