@@ -6,7 +6,7 @@ With my growing interest in emerging AI technologies, I wanted to expand my hori
 **My Journey**: Established enterprise IT automation expert → Now learning and exploring AI innovation
 
 ## 🛠️ Technologies & Tools
-- **AI/ML**: Large Language Models (LLMs), Parallel Processing, AI Automation
+- **Containerization**: Docker, Kubernetes
 - **Scripting**: PowerShell, Python, Ansible
 - **Virtualization**: Citrix XenDesktop, Citrix Cloud, VDI/VDA
 - **Infrastructure**: Citrix DDC, StoreFront, Director, License Server
